@@ -14,6 +14,8 @@ Cartesian closed categories and the price of eggs
 Jane Doe
 September 1994
 
+![Latex](https://images.adsttc.com/media/images/58a6/04de/e58e/cefe/5000/0067/slideshow/enhanced-1659-1425018421-24.jpg?1487275227)
+
 Hello world!
 To produce this in most typesetting or word-processing systems, the author would have to decide what layout to use, so would select (say) 18pt Times Roman for the title, 12pt Times Italic for the name, and so on. This has two results: authors wasting their time with designs; and a lot of badly designed documents!
 
