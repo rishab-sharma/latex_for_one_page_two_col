@@ -1,4 +1,4 @@
-# latex_for_one_page_two_col
+# Latex for One page Two Coloumn PDF
 Latex Code for document Preperation of Pdf with Two parallel Columns in one Page
 
 LaTeX – A document preparation system
